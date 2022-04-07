@@ -1,0 +1,1 @@
+# How-to-make-lammps-data-input-file-from-out-put-trajectory-file
